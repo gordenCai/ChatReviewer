@@ -71,5 +71,7 @@ python chat_response.py --comment_path "review_comments.txt"
 - 感谢OpenAI提供的强大ChatGPT-API；
 - 感谢[kaixindelele](https://github.com/kaixindelele)同学的[ChatPaper](https://github.com/kaixindelele/ChatPaper)和开源精神 ，ChatReviewer的代码是基于ChatPaper修改而来。
 
+## 添加
+- git测试
 
 
